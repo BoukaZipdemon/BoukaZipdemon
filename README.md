@@ -1,4 +1,5 @@
 # 💫 About Me:
+### I am a Computer Science Student Eager To develop my self and learn new topics <br>
 🔭 I’m currently working on IMC Website<br>🌱 I’m currently learning React<br>
 
 
