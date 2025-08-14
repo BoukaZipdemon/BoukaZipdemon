@@ -1,6 +1,6 @@
 # 💫 About Me:
-### I am a Computer Science Student Eager To develop my self and learn new topics <br>
-🔭 I’m currently working on IMC Website<br>🌱 I’m currently learning React<br>
+### I am a Big Data and Data Analysis Student Eager To develop my self and learn new topics <br>
+🔭 I’m currently working on AI projects<br>🌱 I’m currently learning Deep Learning<br>
 
 
 # 💻 Tech Stack:
